@@ -1,6 +1,7 @@
 //Global variables
 const boardRegions = document.querySelectorAll('#gameBoard span')
 const turnPlayertitle = document.querySelector('#turnPlayer')
+const startButton = document.querySelector('#start')
 let vBoard = []
 let turnPlayer = ''
 
@@ -109,4 +110,4 @@ function boardEventClick( ev ){
 }
 
 //Initialize the game
-document.querySelector('#start').addEventListener('click', initializeGame)
+startButton.addEventListener('click', initializeGame)
