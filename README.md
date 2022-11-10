@@ -17,7 +17,7 @@ Projeto realizado para exercitar os conhecimentos básicos de JS, HTML E CSS.
 <br>
 
 <p align="center">
-  <img alt="rocketpay" src=".gitlab/tictactoe.jpg" width="100%">
+  <img alt="rocketpay" src=".github/tictactoe.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
